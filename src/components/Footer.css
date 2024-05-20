@@ -1,0 +1,14 @@
+.footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border-radius: 40px;
+    margin-top: 10px;
+  }
+  
+  .call-button, .menu-button {
+    font-size: 24px;
+    margin: 0 30px;
+  }
+  

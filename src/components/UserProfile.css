@@ -1,0 +1,40 @@
+.user-profile {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-icon {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #ddd;
+    margin-bottom: 10px;
+    font-size: 36px;
+  }
+  
+  .user-icon {
+    background-color: #4a90e2; /* User icon background color */
+    color: white;
+  }
+  
+  .ai-icon {
+    background-color: #f5a623; /* AI icon background color */
+    color: white;
+  }
+  
