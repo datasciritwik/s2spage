@@ -2,7 +2,7 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 93vh;
   justify-content: space-between;
   padding: 20px;
   background-color: #fff;
@@ -12,5 +12,5 @@
   display: flex;
   justify-content: space-between;
   flex: 1;
-  gap: 10px; /* Add gap to flex container for spacing */
+  gap: 20px; /* Add gap to flex container for spacing */
 }
